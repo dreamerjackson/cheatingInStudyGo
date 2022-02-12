@@ -16,10 +16,10 @@
    完成这一系列需要时间、经验、创造力和勇气。更重要的是，需要你的共同参与。
 
 ### 课程形式
-   * 视频 (https://www.bilibili.com/video/BV1Vi4y1f78S?spm_id_from=333.999.0.0)\
-   * 文章 \
-   * 衍生阅读材料 \
-   * 作业 \
+   * 视频 (https://www.bilibili.com/video/BV1Vi4y1f78S?spm_id_from=333.999.0.0)
+   * 文章 (https://github.com/dreamerjackson/cheatingInStudyGo/edit/master/README.md)
+   * 衍生阅读材料
+   * 作业
   重要资料将完全开源，持续更新，共同参与，并提供良好的学习群氛围。希望开源共同参与，提供全面、详细、清晰、顶级的内容质量和学习方法。
 
 ### 目标人群
