@@ -46,6 +46,6 @@
 
 ——————
 
-如果你也希望一起参与到这门课程的学习中来，可加笔者微信,进学习群。
+如果你也希望一起参与到这门课程的学习中来，可加笔者微信,进学习群。\
 <img width="281" alt="image" src="https://user-images.githubusercontent.com/42735226/153756008-1c9335b5-c0b0-4456-889f-58a42eaca23f.png">
 
