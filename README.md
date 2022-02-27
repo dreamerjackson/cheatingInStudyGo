@@ -48,7 +48,7 @@
 
 文章列表：
 [2.如何学习Go语言](https://github.com/dreamerjackson/cheatingInStudyGo/blob/master/article/2.howToLearn.md)
-[3.开发环境](https://github.com/dreamerjackson/cheatingInStudyGo/blob/master/article/3.environment.md)
+[3.搭建Go语言开发环境](https://github.com/dreamerjackson/cheatingInStudyGo/blob/master/article/3.environment.md)
 
 
 
