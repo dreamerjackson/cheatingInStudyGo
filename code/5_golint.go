@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func kk() {
-	var taskId = 123
-	fmt.Println(taskId)
+func main() {
+	var taskID = "hello world"
+	fmt.Println(taskID)
 }

@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	a := 10
+	a := "hello wolrd"
 	fmt.Printf("%T,%T\n", a)
 }
