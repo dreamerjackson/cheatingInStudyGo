@@ -47,8 +47,14 @@
 ——————
 
 文章列表：
-[2.如何学习Go语言](https://github.com/dreamerjackson/cheatingInStudyGo/blob/master/article/2.howToLearn.md)
-[3.搭建Go语言开发环境](https://github.com/dreamerjackson/cheatingInStudyGo/blob/master/article/3.environment.md)
+* [2.如何学习Go语言](https://github.com/dreamerjackson/cheatingInStudyGo/blob/master/article/2.howToLearn.md)
+* [3.搭建Go语言开发环境](https://github.com/dreamerjackson/cheatingInStudyGo/blob/master/article/3.environment.md)
+* [4.书写第一个go语言程序](https://github.com/dreamerjackson/cheatingInStudyGo/blob/master/article/4.%20hello-world.md)
+* [5.Go命令行工具](https://github.com/dreamerjackson/cheatingInStudyGo/blob/master/article/5.command-tool.md)
+* [6.集成开发环境安装](https://github.com/dreamerjackson/cheatingInStudyGo/blob/master/article/6.ide.md)
+* [7.变量与类型](https://github.com/dreamerjackson/cheatingInStudyGo/blob/master/article/7.variables.md)
+* [8.表达式与运算符](https://github.com/dreamerjackson/cheatingInStudyGo/blob/master/article/8.expression.md)
+* [9.程序控制结构](https://github.com/dreamerjackson/cheatingInStudyGo/blob/master/article/9.control-structures.md)
 
 
 
