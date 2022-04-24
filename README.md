@@ -1,6 +1,6 @@
 # Go语言开挂入门
    2022年开年，带给go语言初学者一个好消息。今年笔者将会联合我的圈中密友，扫地僧级别的辛蔚大佬，倾尽所能，为初学者打造一套免费的Go语言入门课程。\
-   去年底笔者靠一本《Go语言底层原理剖析》，成功拿到了电子工业出版社年度优秀作者，沉寂许久之后，我将再度出发，在这汹涌的时代浪潮中奋进...\
+   去年底笔者靠一本《Go语言底层原理剖析》，成功拿到了电子工业出版社年度优秀作者，CSDN 2021年度图书。沉寂许久之后，我将再度出发，在这汹涌的时代浪潮中奋进...\
    《计算机程序的构造和解释》曾说过这样一段话：在头脑中孵化的想法，都可以通过计算机程序进行表达与建模。我们不断加深理解、完善模型，让程序逼近真实的心理过程。
 \
        是的，构造计算机程序就像是创造一个有生命的神灵。我们用想象力与创造力描述心中所想，而这一切复杂到难以置信甚至充满智能的程序都是由简单的符号组合而成，这是多么巧妙、多么让人兴奋。\
@@ -55,9 +55,6 @@
 * [7.变量与类型](https://github.com/dreamerjackson/cheatingInStudyGo/blob/master/article/7.variables.md)
 * [8.表达式与运算符](https://github.com/dreamerjackson/cheatingInStudyGo/blob/master/article/8.expression.md)
 * [9.程序控制结构](https://github.com/dreamerjackson/cheatingInStudyGo/blob/master/article/9.control-structures.md)
-
-
-
 
 如果你也希望一起参与到这门课程的学习中来，可加笔者微信,进学习群。\
 <img width="281" alt="image" src="https://user-images.githubusercontent.com/42735226/153756008-1c9335b5-c0b0-4456-889f-58a42eaca23f.png">

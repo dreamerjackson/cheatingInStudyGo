@@ -1,6 +1,11 @@
 # Root directory to locate the content
 # Default is the root directory of the repository.
-root: ./article
+
+* [第一章:基本介绍](di-yi-zhang-ji-ben-jie-shao/README.md)
+* [1.1 第一节](page/01.md)
+* [1.2 第二节](di-yi-zhang-ji-ben-jie-shao/1.2-di-er-jie.md)
+* [\[第一章:简单介绍\]](di-yi-zhang-jian-dan-jie-shao.md)
+
 
 # Files to use as SUMMARY/README.
 # (Relative to <root> directory)
@@ -11,3 +16,4 @@ structure:
   # Redirect urls to specific files (relative to the <root> directory)
   #redirects:
   #previous/page: new-folder/page.md
+
