@@ -1,11 +1,11 @@
 # Table of contents
 
-* [第一章:为什么设计这门课程](./README.md)
 * 联系方式
   * [微信](lian-xi-fang-shi/wei-xin.md)
   * [微信公众号](lian-xi-fang-shi/wei-xin-gong-zhong-hao.md)
   * [作者书籍](lian-xi-fang-shi/zuo-zhe-shu-ji.md)
   * [本书籍开源,欢迎参与](https://github.com/dreamerjackson/cheatingInStudyGo)
+* [第一章:为什么设计这门课程](./README.md)
 * [第二章:如何学习](article/2.howToLearn.md)
 * [第三章:开发环境](article/3.environment.md)
   * [开发环境-windwos](article/3.1.install-windows.md)
