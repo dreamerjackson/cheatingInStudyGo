@@ -1,6 +1,6 @@
 # Table of contents
 
-* [第一章:为什么设计这门课程](README.md)
+* [第一章:为什么设计这门课程](./README.md)
 * 联系方式
   * [微信](lian-xi-fang-shi/wei-xin.md)
   * [微信公众号](lian-xi-fang-shi/wei-xin-gong-zhong-hao.md)
