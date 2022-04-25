@@ -1,6 +1,6 @@
 # Table of contents
 
-* [联系方式](./README.md)
+* [Go开挂入门之旅](./README.md)
   * [微信](lian-xi-fang-shi/wei-xin.md)
   * [微信公众号](lian-xi-fang-shi/wei-xin-gong-zhong-hao.md)
   * [作者书籍](lian-xi-fang-shi/zuo-zhe-shu-ji.md)
