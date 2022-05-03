@@ -7,8 +7,9 @@ type kk struct {
 }
 
 func main() {
-	for i := 0; ; i++ {
-		a := kk{int64(i)}
-		fmt.Println(a)
-	}
+	return
+	defer func() {
+		fmt.Println("123")
+	}()
+
 }
