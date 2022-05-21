@@ -1,12 +1,16 @@
-package tt
+package tt_test
 
-import "testing"
+import (
+	"fmt"
+	"testing"
+)
 
 func kk() {
-
+	fmt.Println("456")
 }
 
 func Test_kk(t *testing.T) {
+	fmt.Println("123")
 	tests := []struct {
 		name string
 	}{
@@ -14,6 +18,6 @@ func Test_kk(t *testing.T) {
 		{"zjx"},
 	}
 	for _, _ = range tests {
-		Size(2)
+		fmt.Println("123")
 	}
 }

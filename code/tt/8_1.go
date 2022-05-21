@@ -1,5 +1,7 @@
 package tt
 
+import "errors"
+
 func Size(a int) string {
 	switch {
 	case a < 0:
@@ -14,4 +16,19 @@ func Size(a int) string {
 		return "huge"
 	}
 	return "enormous"
+}
+
+func div(a, b int) (int, error) {
+	if b == 0 {
+		return 0, errors.New("b cat't be 0")
+	}
+	return a / b, nil
+}
+
+func addsum(nums ...int) int {
+	var sum int
+	for _, value := range nums {
+		sum += value
+	}
+	return sum
 }

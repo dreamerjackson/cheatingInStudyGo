@@ -19,4 +19,5 @@
 * [第七章:变量与类型](article/7.variables.md)
 * [第八章:表达式与运算符](article/8.expression.md)
 * [第九章:程序控制结构](article/9.control-structures.md)
-* [第十章:复合类型](article/10.composite-types.md)
+* [第十章:函数](article/10.function.md)
+* [第十一章:复合类型](article/11.composite-types.md)
